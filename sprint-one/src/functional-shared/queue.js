@@ -36,8 +36,8 @@ dequeue: function(){
   var stored = this.storage[keys[0]];
 
 
-	delete this.storage[kys[0]];
-	return sstored; 
+  delete this.storage[ys[0]];
+  return stored; 
 
 },
 
